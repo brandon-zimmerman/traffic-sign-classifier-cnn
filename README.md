@@ -40,9 +40,13 @@ The next set of images are bar charts showing the number of samples by type from
 
 
 
-![Training Set Occurances](images/train-set-distro.png)
+![Training Set Occurrences](images/train-set-distro.png)
 
-![Validation Set Occurances](images/val-set-dist.png)
+![Validation Set Occurrences](images/val-set-dist.png)
+
+![Test Set Occurrences](images/test-set-dist.png)
+
+
 
 ### Design and Test a Model Architecture
 
